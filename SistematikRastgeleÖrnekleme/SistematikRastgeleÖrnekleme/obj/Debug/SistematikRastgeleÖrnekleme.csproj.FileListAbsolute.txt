@@ -1,0 +1,6 @@
+C:\Users\ENES\Desktop\Uygulamalar\C# uygulamalar\olasılık ödev\SistematikRastgeleÖrnekleme\SistematikRastgeleÖrnekleme\bin\Debug\SistematikRastgeleÖrnekleme.exe.config
+C:\Users\ENES\Desktop\Uygulamalar\C# uygulamalar\olasılık ödev\SistematikRastgeleÖrnekleme\SistematikRastgeleÖrnekleme\bin\Debug\SistematikRastgeleÖrnekleme.exe
+C:\Users\ENES\Desktop\Uygulamalar\C# uygulamalar\olasılık ödev\SistematikRastgeleÖrnekleme\SistematikRastgeleÖrnekleme\bin\Debug\SistematikRastgeleÖrnekleme.pdb
+C:\Users\ENES\Desktop\Uygulamalar\C# uygulamalar\olasılık ödev\SistematikRastgeleÖrnekleme\SistematikRastgeleÖrnekleme\obj\Debug\SistematikRastgeleÖrnekleme.csprojResolveAssemblyReference.cache
+C:\Users\ENES\Desktop\Uygulamalar\C# uygulamalar\olasılık ödev\SistematikRastgeleÖrnekleme\SistematikRastgeleÖrnekleme\obj\Debug\SistematikRastgeleÖrnekleme.exe
+C:\Users\ENES\Desktop\Uygulamalar\C# uygulamalar\olasılık ödev\SistematikRastgeleÖrnekleme\SistematikRastgeleÖrnekleme\obj\Debug\SistematikRastgeleÖrnekleme.pdb

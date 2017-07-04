@@ -1,0 +1,6 @@
+C:\Users\ENES\Desktop\Uygulamalar\C# uygulamalar\olasılık ödev\RasgeleSayiüretme\RasgeleSayiüretme\bin\Debug\RasgeleSayiüretme.exe.config
+C:\Users\ENES\Desktop\Uygulamalar\C# uygulamalar\olasılık ödev\RasgeleSayiüretme\RasgeleSayiüretme\bin\Debug\RasgeleSayiüretme.exe
+C:\Users\ENES\Desktop\Uygulamalar\C# uygulamalar\olasılık ödev\RasgeleSayiüretme\RasgeleSayiüretme\bin\Debug\RasgeleSayiüretme.pdb
+C:\Users\ENES\Desktop\Uygulamalar\C# uygulamalar\olasılık ödev\RasgeleSayiüretme\RasgeleSayiüretme\obj\Debug\RasgeleSayiüretme.csprojResolveAssemblyReference.cache
+C:\Users\ENES\Desktop\Uygulamalar\C# uygulamalar\olasılık ödev\RasgeleSayiüretme\RasgeleSayiüretme\obj\Debug\RasgeleSayiüretme.exe
+C:\Users\ENES\Desktop\Uygulamalar\C# uygulamalar\olasılık ödev\RasgeleSayiüretme\RasgeleSayiüretme\obj\Debug\RasgeleSayiüretme.pdb

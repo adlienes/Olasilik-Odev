@@ -1,0 +1,6 @@
+C:\Users\ENES\Desktop\Uygulamalar\C# uygulamalar\olasılık ödev\BasitSeri\BasitSeri\bin\Debug\BasitSeri.exe.config
+C:\Users\ENES\Desktop\Uygulamalar\C# uygulamalar\olasılık ödev\BasitSeri\BasitSeri\bin\Debug\BasitSeri.exe
+C:\Users\ENES\Desktop\Uygulamalar\C# uygulamalar\olasılık ödev\BasitSeri\BasitSeri\bin\Debug\BasitSeri.pdb
+C:\Users\ENES\Desktop\Uygulamalar\C# uygulamalar\olasılık ödev\BasitSeri\BasitSeri\obj\Debug\BasitSeri.exe
+C:\Users\ENES\Desktop\Uygulamalar\C# uygulamalar\olasılık ödev\BasitSeri\BasitSeri\obj\Debug\BasitSeri.pdb
+C:\Users\ENES\Desktop\Uygulamalar\C# uygulamalar\olasılık ödev\BasitSeri\BasitSeri\obj\Debug\BasitSeri.csprojResolveAssemblyReference.cache

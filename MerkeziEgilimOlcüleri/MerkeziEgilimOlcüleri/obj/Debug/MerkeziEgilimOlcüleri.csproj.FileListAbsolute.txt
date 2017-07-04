@@ -1,0 +1,6 @@
+C:\Users\ENES\Desktop\Uygulamalar\C# uygulamalar\olasılık ödev\MerkeziEgilimOlcüleri\MerkeziEgilimOlcüleri\bin\Debug\MerkeziEgilimOlcüleri.exe.config
+C:\Users\ENES\Desktop\Uygulamalar\C# uygulamalar\olasılık ödev\MerkeziEgilimOlcüleri\MerkeziEgilimOlcüleri\bin\Debug\MerkeziEgilimOlcüleri.exe
+C:\Users\ENES\Desktop\Uygulamalar\C# uygulamalar\olasılık ödev\MerkeziEgilimOlcüleri\MerkeziEgilimOlcüleri\bin\Debug\MerkeziEgilimOlcüleri.pdb
+C:\Users\ENES\Desktop\Uygulamalar\C# uygulamalar\olasılık ödev\MerkeziEgilimOlcüleri\MerkeziEgilimOlcüleri\obj\Debug\MerkeziEgilimOlcüleri.csprojResolveAssemblyReference.cache
+C:\Users\ENES\Desktop\Uygulamalar\C# uygulamalar\olasılık ödev\MerkeziEgilimOlcüleri\MerkeziEgilimOlcüleri\obj\Debug\MerkeziEgilimOlcüleri.exe
+C:\Users\ENES\Desktop\Uygulamalar\C# uygulamalar\olasılık ödev\MerkeziEgilimOlcüleri\MerkeziEgilimOlcüleri\obj\Debug\MerkeziEgilimOlcüleri.pdb

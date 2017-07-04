@@ -1,0 +1,6 @@
+C:\Users\ENES\Desktop\Uygulamalar\C# uygulamalar\olasılık ödev\FrekansSerisi\FrekansSerisi\bin\Debug\FrekansSerisi.exe.config
+C:\Users\ENES\Desktop\Uygulamalar\C# uygulamalar\olasılık ödev\FrekansSerisi\FrekansSerisi\obj\Debug\FrekansSerisi.csprojResolveAssemblyReference.cache
+C:\Users\ENES\Desktop\Uygulamalar\C# uygulamalar\olasılık ödev\FrekansSerisi\FrekansSerisi\bin\Debug\FrekansSerisi.exe
+C:\Users\ENES\Desktop\Uygulamalar\C# uygulamalar\olasılık ödev\FrekansSerisi\FrekansSerisi\bin\Debug\FrekansSerisi.pdb
+C:\Users\ENES\Desktop\Uygulamalar\C# uygulamalar\olasılık ödev\FrekansSerisi\FrekansSerisi\obj\Debug\FrekansSerisi.exe
+C:\Users\ENES\Desktop\Uygulamalar\C# uygulamalar\olasılık ödev\FrekansSerisi\FrekansSerisi\obj\Debug\FrekansSerisi.pdb

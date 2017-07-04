@@ -1,0 +1,9 @@
+C:\Users\ENES\Desktop\Uygulamalar\C# uygulamalar\olasılık ödev\MerkeziDagilimOlculeri\MerkeziDagilimOlculeri\bin\Debug\MerkeziDagilimOlculeri.exe.config
+C:\Users\ENES\Desktop\Uygulamalar\C# uygulamalar\olasılık ödev\MerkeziDagilimOlculeri\MerkeziDagilimOlculeri\bin\Debug\MerkeziDagilimOlculeri.exe
+C:\Users\ENES\Desktop\Uygulamalar\C# uygulamalar\olasılık ödev\MerkeziDagilimOlculeri\MerkeziDagilimOlculeri\bin\Debug\MerkeziDagilimOlculeri.pdb
+C:\Users\ENES\Desktop\Uygulamalar\C# uygulamalar\olasılık ödev\MerkeziDagilimOlculeri\MerkeziDagilimOlculeri\obj\Debug\MerkeziDagilimOlculeri.csprojResolveAssemblyReference.cache
+C:\Users\ENES\Desktop\Uygulamalar\C# uygulamalar\olasılık ödev\MerkeziDagilimOlculeri\MerkeziDagilimOlculeri\obj\Debug\MerkeziDagilimOlculeri.exe
+C:\Users\ENES\Desktop\Uygulamalar\C# uygulamalar\olasılık ödev\MerkeziDagilimOlculeri\MerkeziDagilimOlculeri\obj\Debug\MerkeziDagilimOlculeri.pdb
+C:\Users\ENES\Desktop\Uygulamalar\C# uygulamalar\olasılık ödev\ahmet enes adlığ\MerkeziDagilimOlculeri\MerkeziDagilimOlculeri\bin\Debug\MerkeziDagilimOlculeri.exe.config
+C:\Users\ENES\Desktop\Uygulamalar\C# uygulamalar\olasılık ödev\ahmet enes adlığ\MerkeziDagilimOlculeri\MerkeziDagilimOlculeri\obj\Debug\MerkeziDagilimOlculeri.exe
+C:\Users\ENES\Desktop\Uygulamalar\C# uygulamalar\olasılık ödev\ahmet enes adlığ\MerkeziDagilimOlculeri\MerkeziDagilimOlculeri\obj\Debug\MerkeziDagilimOlculeri.pdb
